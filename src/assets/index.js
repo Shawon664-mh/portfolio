@@ -38,7 +38,16 @@ import ai from "./tech/ai.png";
 import linux from "./tech/linux.png";
 import logoM from "./tech/logoM.png";
 
+import ecommerce from "./ecommerce.png";
+import gpt3 from "./ai.png";
+import codeEditor from "./code-editor.png";
+import sushiMan from "./sushiman.png";
+
 export {
+  ecommerce,
+  gpt3,
+  codeEditor,
+  sushiMan,
   logo,
   backend,
   creator,
